@@ -1,2 +1,3 @@
 ## Simple Portfolio
-#### HTML, CSS
+#### HTML
+#### CSS
